@@ -1,3 +1,5 @@
+//Sofia Sanchez
+
 PImage img;
 
 void setup () {
