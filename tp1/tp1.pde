@@ -1,3 +1,5 @@
+//Sofia Sanchez Ponce - 91368/3
+
 int cont;
 
 PImage img1;
