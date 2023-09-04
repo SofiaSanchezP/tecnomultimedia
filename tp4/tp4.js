@@ -1,4 +1,5 @@
 //Sofia Sanchez Ponce - 91368/3
+// https://youtu.be/M6xs6F-h7o4
 
 function preload () {
   cargarImagenes ();
